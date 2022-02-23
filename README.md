@@ -2,14 +2,11 @@
 ---------------------------------------
 
 # Introduction
----------------------------------------
 This tool is the protype code of the tool in 
 Paper "Topic Generation",
 a Machine Learning based topic generation for smart home securtiy and safety.
 
-
 # Framework
----------------------------------------
 Here are Four components:
 1. Real Scenario Collection
 2. Fine-tuning for Specific Task
@@ -17,8 +14,8 @@ Here are Four components:
 4. Topic Generation
 
 
+
 # Usage
----------------------------------------
 This repository is meant to be a starting point for researchers and engineers to experiment for smart home topic generation.
 
 ## Real Scenario Collection
@@ -38,7 +35,6 @@ Scenario generation is also built on Google Colab using the gpt-2-simple package
 The GPU is used for generation based on the fine-tuned model.
 
 ## Topic Generation
----------------------------------------
 This component outputs the topics though topic modeling. 
 Given generated scearios,
 though semantic embedding and topic modeling technique,
@@ -49,7 +45,7 @@ It supports visualizations similar to LDAvis!
 
 
 # Citation
----------------------------------------
+
 
 
 
