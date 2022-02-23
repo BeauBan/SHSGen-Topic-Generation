@@ -13,7 +13,7 @@ Here are Four components:
 3. Scenario Generation
 4. Topic Generation
 
-
+![Workflow](https://github.com/BeauBan/Topic-Generation/blob/main/images/workflow.eps)
 
 # Usage
 This repository is meant to be a starting point for researchers and engineers to experiment for smart home topic generation.
